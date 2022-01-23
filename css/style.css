@@ -3,4 +3,16 @@
 /* utilities styles */
 body {
   font-family: "Poppins", sans-serif;
+  background-color: #e5e5e5;
+  color: #0a0826;
+}
+.text-color {
+  color: #3f87f5;
+}
+.banner {
+  padding-top: 68px;
+}
+.link-btn {
+  text-decoration: none;
+  padding: 10px 30px;
 }
